@@ -13,5 +13,3 @@ The transaction pattern indicates a peak in the afternoon, particularly between 
 
 Understanding these patterns allows for more targeted and effective business decisions.
 
-Link to the article in medium:
-https://lnkd.in/dysrhFHf
